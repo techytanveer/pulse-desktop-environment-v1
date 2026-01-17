@@ -169,20 +169,6 @@ pulse/
 ├── scripts/                  # Build and development scripts
 └── tests/                    # Test suites
 
-🤝 Contributing
-
-We welcome contributions! Please see our Contributing Guide for details.
-Development Workflow
-
-    Fork the repository
-
-    Create a feature branch (git checkout -b feature/amazing-feature)
-
-    Commit your changes (git commit -m 'Add amazing feature')
-
-    Push to the branch (git push origin feature/amazing-feature)
-
-    Open a Pull Request
 
 Code Style
 
@@ -199,7 +185,7 @@ Code Style
 📄 License
 
 Pulse Desktop Environment is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
-🙏 Acknowledgments
+Acknowledgments
 
     Qt Project for the amazing framework
 
@@ -209,13 +195,6 @@ Pulse Desktop Environment is licensed under the GNU General Public License v3.0.
 
     All open-source desktop environments that paved the way
 
-📞 Contact & Support
-
-    GitHub Issues: Report bugs or request features
-
-    Discussions: Join the conversation
-
-    Documentation: Check our wiki
 
 🌟 Show Your Support
 
